@@ -91,12 +91,6 @@ streamlit run app.py
 5. Generating job recommendations based on user inputs.
 6. Deploying the application using Streamlit Community Cloud.
 
-##  Live Application
-
-**Try JobMatch Factory here:**
-
-https://jobmatch-factory-ai-uumxj7vw3sodrxqnucrows.streamlit.app/
-
 ## Author
 
 **Fathima Sinfa V P**
