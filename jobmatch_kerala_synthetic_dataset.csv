@@ -1,0 +1,101 @@
+locality,district,factory_type,unemployed_workers,skill_match_pct,local_demand_score,raw_material_score,transport_score,infrastructure_score,investment_lakh,training_needed_pct,estimated_jobs,suitability_score,data_type
+Kozhikode,Kozhikode,Food Processing,650,72,85,78,82,80,75,28,45,81,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Coconut Fibre Products,650,65,72,70,78,76,55,35,40,72,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Furniture Manufacturing,650,58,70,62,80,78,90,42,35,69,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Garment Manufacturing,650,68,74,55,82,80,60,32,65,72,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Rubber Products,650,55,68,65,80,78,110,45,35,67,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Electronics Assembly,650,42,82,45,85,88,150,58,60,68,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Metal Fabrication,650,62,75,72,82,80,100,38,40,73,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Spice Processing,650,70,83,80,78,76,55,30,35,78,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Fish Processing,650,68,86,88,80,76,85,32,45,80,SYNTHETIC_DEMO
+Kozhikode,Kozhikode,Packaging Products,650,65,80,68,82,80,70,35,50,76,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Food Processing,900,70,78,85,88,86,100,30,55,80,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Coconut Fibre Products,900,58,65,62,84,82,65,42,40,68,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Furniture Manufacturing,900,62,65,70,85,82,95,38,40,70,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Garment Manufacturing,900,64,72,52,86,84,75,36,70,72,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Rubber Products,900,68,78,80,88,86,130,32,45,78,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Electronics Assembly,900,48,85,52,90,88,180,52,75,71,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Metal Fabrication,900,76,80,72,90,88,120,24,40,81,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Spice Processing,900,72,76,86,86,84,65,28,40,78,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Fish Processing,900,55,62,65,82,80,90,45,40,64,SYNTHETIC_DEMO
+Kanjikode,Palakkad,Packaging Products,900,66,77,75,88,86,85,34,55,77,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Food Processing,1100,62,78,72,90,92,100,38,55,76,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Coconut Fibre Products,1100,54,64,58,90,90,70,46,45,65,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Furniture Manufacturing,1100,65,72,65,91,92,110,35,45,74,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Garment Manufacturing,1100,65,75,50,92,94,75,35,80,77,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Rubber Products,1100,75,82,78,92,94,140,25,55,82,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Electronics Assembly,1100,78,90,62,92,94,200,22,85,85,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Metal Fabrication,1100,80,84,75,92,94,140,20,50,85,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Spice Processing,1100,60,70,68,90,90,65,40,40,69,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Fish Processing,1100,58,72,70,88,90,95,42,50,69,SYNTHETIC_DEMO
+Kalamassery,Ernakulam,Packaging Products,1100,72,86,70,92,94,90,28,65,83,SYNTHETIC_DEMO
+Aroor,Alappuzha,Food Processing,500,64,76,78,78,75,70,36,40,73,SYNTHETIC_DEMO
+Aroor,Alappuzha,Coconut Fibre Products,500,74,68,82,75,72,55,26,40,75,SYNTHETIC_DEMO
+Aroor,Alappuzha,Furniture Manufacturing,500,55,62,65,76,72,80,45,30,64,SYNTHETIC_DEMO
+Aroor,Alappuzha,Garment Manufacturing,500,60,66,50,76,72,60,40,55,67,SYNTHETIC_DEMO
+Aroor,Alappuzha,Rubber Products,500,50,60,58,75,70,95,50,30,60,SYNTHETIC_DEMO
+Aroor,Alappuzha,Electronics Assembly,500,38,70,42,78,76,140,62,45,58,SYNTHETIC_DEMO
+Aroor,Alappuzha,Metal Fabrication,500,58,70,68,78,75,85,42,35,68,SYNTHETIC_DEMO
+Aroor,Alappuzha,Spice Processing,500,62,72,75,76,73,50,38,30,70,SYNTHETIC_DEMO
+Aroor,Alappuzha,Fish Processing,500,70,88,90,78,75,85,30,45,82,SYNTHETIC_DEMO
+Aroor,Alappuzha,Packaging Products,500,58,80,65,78,75,65,42,35,70,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Food Processing,750,67,78,76,80,78,75,33,50,76,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Coconut Fibre Products,750,68,70,78,78,76,60,32,45,73,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Furniture Manufacturing,750,55,62,65,78,75,90,45,35,65,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Garment Manufacturing,750,82,86,60,80,78,70,18,85,83,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Rubber Products,750,52,64,60,78,76,100,48,35,63,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Electronics Assembly,750,44,72,45,82,80,155,56,55,63,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Metal Fabrication,750,62,74,68,80,78,95,38,40,72,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Spice Processing,750,72,82,85,78,76,60,28,40,80,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Fish Processing,750,56,68,72,78,75,80,44,40,66,SYNTHETIC_DEMO
+Kakkanchery,Malappuram,Packaging Products,750,63,79,68,80,78,65,37,50,73,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Food Processing,400,74,85,88,65,62,65,26,40,78,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Coconut Fibre Products,400,42,52,45,60,58,55,58,25,49,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Furniture Manufacturing,400,58,62,72,64,62,75,42,30,64,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Garment Manufacturing,400,55,65,48,65,62,60,45,45,62,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Rubber Products,400,40,55,48,62,60,95,60,25,51,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Electronics Assembly,400,32,60,35,65,64,130,68,35,48,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Metal Fabrication,400,48,60,55,65,62,80,52,30,57,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Spice Processing,400,78,88,90,66,64,55,22,35,82,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Fish Processing,400,42,55,40,62,60,80,58,25,49,SYNTHETIC_DEMO
+Kalpetta,Wayanad,Packaging Products,400,62,75,70,65,63,60,38,40,70,SYNTHETIC_DEMO
+Thrissur,Thrissur,Food Processing,800,70,82,75,85,84,85,30,50,79,SYNTHETIC_DEMO
+Thrissur,Thrissur,Coconut Fibre Products,800,62,68,70,82,80,60,38,40,70,SYNTHETIC_DEMO
+Thrissur,Thrissur,Furniture Manufacturing,800,74,78,78,85,84,100,26,45,79,SYNTHETIC_DEMO
+Thrissur,Thrissur,Garment Manufacturing,800,68,77,55,85,84,70,32,70,75,SYNTHETIC_DEMO
+Thrissur,Thrissur,Rubber Products,800,65,76,72,84,83,115,35,45,74,SYNTHETIC_DEMO
+Thrissur,Thrissur,Electronics Assembly,800,52,78,48,86,86,165,48,65,69,SYNTHETIC_DEMO
+Thrissur,Thrissur,Metal Fabrication,800,72,82,76,86,85,110,28,45,79,SYNTHETIC_DEMO
+Thrissur,Thrissur,Spice Processing,800,66,74,72,82,80,55,34,35,73,SYNTHETIC_DEMO
+Thrissur,Thrissur,Fish Processing,800,55,68,62,80,78,90,45,40,65,SYNTHETIC_DEMO
+Thrissur,Thrissur,Packaging Products,800,70,81,73,85,84,80,30,55,78,SYNTHETIC_DEMO
+Kollam,Kollam,Food Processing,700,66,78,75,82,80,80,34,45,75,SYNTHETIC_DEMO
+Kollam,Kollam,Coconut Fibre Products,700,76,80,88,80,78,60,24,50,82,SYNTHETIC_DEMO
+Kollam,Kollam,Furniture Manufacturing,700,56,65,68,80,78,90,44,35,66,SYNTHETIC_DEMO
+Kollam,Kollam,Garment Manufacturing,700,62,70,52,82,80,65,38,60,70,SYNTHETIC_DEMO
+Kollam,Kollam,Rubber Products,700,58,72,70,82,80,105,42,40,69,SYNTHETIC_DEMO
+Kollam,Kollam,Electronics Assembly,700,45,75,45,85,84,160,55,55,64,SYNTHETIC_DEMO
+Kollam,Kollam,Metal Fabrication,700,65,78,72,84,82,100,35,40,75,SYNTHETIC_DEMO
+Kollam,Kollam,Spice Processing,700,60,72,68,80,78,55,40,35,68,SYNTHETIC_DEMO
+Kollam,Kollam,Fish Processing,700,72,85,88,82,80,90,28,50,81,SYNTHETIC_DEMO
+Kollam,Kollam,Packaging Products,700,64,78,70,82,80,70,36,50,74,SYNTHETIC_DEMO
+Kannur,Kannur,Food Processing,600,68,80,76,80,78,75,32,45,76,SYNTHETIC_DEMO
+Kannur,Kannur,Coconut Fibre Products,600,70,75,80,78,76,60,30,45,76,SYNTHETIC_DEMO
+Kannur,Kannur,Furniture Manufacturing,600,60,68,70,80,78,90,40,35,69,SYNTHETIC_DEMO
+Kannur,Kannur,Garment Manufacturing,600,78,84,58,82,80,70,22,80,81,SYNTHETIC_DEMO
+Kannur,Kannur,Rubber Products,600,52,65,62,78,76,100,48,35,63,SYNTHETIC_DEMO
+Kannur,Kannur,Electronics Assembly,600,46,75,46,84,82,155,54,55,64,SYNTHETIC_DEMO
+Kannur,Kannur,Metal Fabrication,600,66,78,72,82,80,100,34,40,75,SYNTHETIC_DEMO
+Kannur,Kannur,Spice Processing,600,65,76,78,78,76,55,35,35,73,SYNTHETIC_DEMO
+Kannur,Kannur,Fish Processing,600,70,84,86,80,78,85,30,45,80,SYNTHETIC_DEMO
+Kannur,Kannur,Packaging Products,600,64,78,68,82,80,70,36,50,74,SYNTHETIC_DEMO
+Kottayam,Kottayam,Food Processing,550,70,80,78,78,80,80,30,45,77,SYNTHETIC_DEMO
+Kottayam,Kottayam,Coconut Fibre Products,550,55,62,60,75,76,55,45,35,62,SYNTHETIC_DEMO
+Kottayam,Kottayam,Furniture Manufacturing,550,62,70,72,78,80,90,38,35,71,SYNTHETIC_DEMO
+Kottayam,Kottayam,Garment Manufacturing,550,64,72,52,78,80,65,36,60,71,SYNTHETIC_DEMO
+Kottayam,Kottayam,Rubber Products,550,76,82,88,78,80,110,24,45,82,SYNTHETIC_DEMO
+Kottayam,Kottayam,Electronics Assembly,550,44,70,42,80,84,150,56,50,61,SYNTHETIC_DEMO
+Kottayam,Kottayam,Metal Fabrication,550,60,72,70,78,80,95,40,35,70,SYNTHETIC_DEMO
+Kottayam,Kottayam,Spice Processing,550,62,74,75,76,78,55,38,35,71,SYNTHETIC_DEMO
+Kottayam,Kottayam,Fish Processing,550,48,62,55,74,76,80,52,30,58,SYNTHETIC_DEMO
+Kottayam,Kottayam,Packaging Products,550,66,78,70,78,80,70,34,50,75,SYNTHETIC_DEMO
